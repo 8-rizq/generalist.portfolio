@@ -1,5 +1,3 @@
-# Rizq Athallah Puddin
-
 ### Education
 Bachelor of Engineering in Industrial Engineering, Telkom University / 2023 - Present
 
