@@ -1,15 +1,22 @@
 # Rizq Athallah Puddin
 
 ### Education
-Telkom University, Industrial Engineering, B.E.
+Bachelor of Engineering in Industrial Engineering, Telkom University / 2023 - Present
+
+Bachelor of Arts in Public Administration, Universitas Terbuka / 2022 - 2023
 
 ### Work Experience
-Web Developer, Telkom University
-- Building and Design for Telkom Indonesia Subsidiaries Consulting Firm
+Web Developer, Telkom University / 2024 - Present
 
-Assistant Analyst, PwC Consulting
-- Analyze client need and make a decision making for the project
+Responsible for the website development lifecycle, from planning to launch. Apply responsive and user-centric design principles to ensure optimal user experience across multiple devices. Mastered various web technologies such as HTML, CSS, and popular frameworks. Have successfully increased website conversions by 82% through A/B testing optimization.
+
+Assistant Analyst, PwC Consuting / July - August 2024
+
+Directly involved in client data analysis projects. Utilize various data analysis tools to identify trends, patterns, and improvement opportunities. Compiled comprehensive analysis reports to provide strategic recommendations to clients.
 
 ### Projects
-PT Ruang Raya Indonesia (Ruangguru)
-- Processing raw data into fixed data to visualization to make decision making
+PT Ruang Raya Indonesia (Ruangguru) / August - September 2023
+
+Process sales and marketing data, perform forecasting and identify trends, consumer behavior
+patterns and present business decisions.
+
